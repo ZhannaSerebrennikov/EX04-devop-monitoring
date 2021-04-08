@@ -1,5 +1,5 @@
-<%@page contentType="text/html" import="java.util.*" %> 
-
+<%@page contentType="text/html" import="java" %> 
+<html>
 <body>
 <p>&nbsp;</p>
 <div align="">
